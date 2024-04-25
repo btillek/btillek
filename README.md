@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey 👋
 
-Transitioned from animation and graphic design in the music and fashion industry to web development. Recently graduated from Le Wagon, designing and developing a multiplayer chess app.
+My name is Boy, a front end developer with a background in animation and graphic design in the music and fashion industry. I recently graduated from Le Wagon, designing and developing a multiplayer chess app.
 
-Check out my work at www.boytillekens.me
+You can check out my work at www.boytillekens.me
 
 <!--
 **btillek/btillek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
